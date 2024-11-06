@@ -1,0 +1,7 @@
+D:\C#\repo\Main\bin\Debug\Main.exe.config
+D:\C#\repo\Main\bin\Debug\Main.exe
+D:\C#\repo\Main\bin\Debug\Main.pdb
+D:\C#\repo\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+D:\C#\repo\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+D:\C#\repo\Main\obj\Debug\Main.exe
+D:\C#\repo\Main\obj\Debug\Main.pdb
