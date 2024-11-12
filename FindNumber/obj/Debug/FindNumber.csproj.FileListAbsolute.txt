@@ -1,0 +1,10 @@
+D:\C#\repo\FindNumber\bin\Debug\FindNumber.exe.config
+D:\C#\repo\FindNumber\bin\Debug\FindNumber.exe
+D:\C#\repo\FindNumber\bin\Debug\FindNumber.pdb
+D:\C#\repo\FindNumber\obj\Debug\FindNumber.csproj.AssemblyReference.cache
+D:\C#\repo\FindNumber\obj\Debug\FindNumber.Form1.resources
+D:\C#\repo\FindNumber\obj\Debug\FindNumber.Properties.Resources.resources
+D:\C#\repo\FindNumber\obj\Debug\FindNumber.csproj.GenerateResource.cache
+D:\C#\repo\FindNumber\obj\Debug\FindNumber.csproj.CoreCompileInputs.cache
+D:\C#\repo\FindNumber\obj\Debug\FindNumber.exe
+D:\C#\repo\FindNumber\obj\Debug\FindNumber.pdb

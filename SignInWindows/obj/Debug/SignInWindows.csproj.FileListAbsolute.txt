@@ -1,0 +1,10 @@
+D:\C#\repo\SignInWindows\bin\Debug\SignInWindows.exe.config
+D:\C#\repo\SignInWindows\bin\Debug\SignInWindows.exe
+D:\C#\repo\SignInWindows\bin\Debug\SignInWindows.pdb
+D:\C#\repo\SignInWindows\obj\Debug\SignInWindows.csproj.AssemblyReference.cache
+D:\C#\repo\SignInWindows\obj\Debug\SignInWindows.Form1.resources
+D:\C#\repo\SignInWindows\obj\Debug\SignInWindows.Properties.Resources.resources
+D:\C#\repo\SignInWindows\obj\Debug\SignInWindows.csproj.GenerateResource.cache
+D:\C#\repo\SignInWindows\obj\Debug\SignInWindows.csproj.CoreCompileInputs.cache
+D:\C#\repo\SignInWindows\obj\Debug\SignInWindows.exe
+D:\C#\repo\SignInWindows\obj\Debug\SignInWindows.pdb
